@@ -9,7 +9,6 @@ Create a basic markdown editor in Next.js with the following features:
 - The markdown text and resulting HTML should be saved in the component's state and updated in real time 
 */
 
-// import react markdown package
 import ReactMarkdown from 'react-markdown';
 import { useState } from 'react';
 import styled from 'styled-components';
